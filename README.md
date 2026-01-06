@@ -180,11 +180,6 @@ def num_to_word(num: int) -> str:
 - **Data Processing**: Transform numerical data to text format
 - **Educational Projects**: Learn algorithm design and recursion patterns
 
----
-
-## 👨‍💻 Author
-
-[Your Name]
 
 ---
 
