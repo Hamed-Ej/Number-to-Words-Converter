@@ -131,12 +131,6 @@ The algorithm uses a **recursive decomposition** approach:
   └── Combine with "thousand"
 ```
 
----
-
-## 📊 Algorithm Complexity
-
-- **Time Complexity**: O(log n) where n is the input number
-- **Space Complexity**: O(log n) due to recursion depth
 
 ---
 
